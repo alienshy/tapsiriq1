@@ -1,0 +1,16 @@
+body{
+    background-color:orange ;
+}
+h1{
+    color:black;
+}
+h4{
+    color:yellow;
+}
+h2{
+    color:blueviolet;
+}
+.st1 {
+    color:mediumblue;
+    text-decoration: underline;
+}
